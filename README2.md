@@ -28,7 +28,7 @@ Or ....
 ### **`WindowsOS`** type the following commands :
 
 - Install the virtual environment and the required packages by following commands.
-
+ 
    For `PowerShell` CLI :
 
     ```PowerShell
